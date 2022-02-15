@@ -20,8 +20,8 @@ jobs:
         - uses: actions/checkout@v2
         - name: Print entity of repo
           run: ls
-        - name: Print entity of main.py
-          run: cat main.py
+        - name: Print entity of log.txt
+          run: cat log.txt
         - name: Print DEPLOY_VER
           run: echo "Hello from $DEPLOY_VER commit"
     

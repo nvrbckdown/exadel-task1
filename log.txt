@@ -1,0 +1,35 @@
+commit ac6e25bc79e880ed6bab749013de462a52d0d5db
+Merge: aaa60c7 f809049
+Author: Abdulkodir Yusupov <44323682+nvrbckdown@users.noreply.github.com>
+Date:   Tue Feb 15 11:54:45 2022 +0500
+
+    Merge pull request #2 from nvrbckdown/dev
+    
+    Dev
+
+commit f80904987f1bd962b52ad9070e72166f93505c01
+Merge: 20848dd b62edcd
+Author: Abdulkodir Yusupov <44323682+nvrbckdown@users.noreply.github.com>
+Date:   Tue Feb 15 11:53:25 2022 +0500
+
+    Merge pull request #1 from nvrbckdown/abdulkodir-new_feature
+    
+    initial commit for abdulkodir-new_feature branch
+
+commit b62edcdafe6644c19c66de26535ee8053aa71162
+Author: Abdulkodir Yusupov <44323682+nvrbckdown@users.noreply.github.com>
+Date:   Tue Feb 15 11:50:24 2022 +0500
+
+    initial commit for abdulkodir-new_feature branch
+
+commit 20848dd3ebab45e9914e586710a23356637a4302
+Author: Abdulkodir Yusupov <44323682+nvrbckdown@users.noreply.github.com>
+Date:   Tue Feb 15 11:36:31 2022 +0500
+
+    initial commit for dev branch
+
+commit aaa60c7088ceb6925e996377a8bdf437e1650687
+Author: Abdulkodir Yusupov <44323682+nvrbckdown@users.noreply.github.com>
+Date:   Tue Feb 15 11:33:55 2022 +0500
+
+    initial commit

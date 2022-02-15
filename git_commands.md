@@ -29,4 +29,5 @@ git branch -D abdulkodir-new_feature
 git push origin --delete abdulkodir-new_feature
 
 vim git_commands.md
+git pull origin dev
 git add . && git commit -m "add git_commands.md file" && git push origin dev
